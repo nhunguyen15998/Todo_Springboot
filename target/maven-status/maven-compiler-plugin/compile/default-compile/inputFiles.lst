@@ -1,0 +1,17 @@
+/Users/admin/JAVA/gambling/src/main/java/com/risky/gambling/utils/JoinCondition.java
+/Users/admin/JAVA/gambling/src/main/java/com/risky/gambling/utils/DataMapping.java
+/Users/admin/JAVA/gambling/src/main/java/com/risky/gambling/utils/Helpers.java
+/Users/admin/JAVA/gambling/src/main/java/com/risky/gambling/models/Todo.java
+/Users/admin/JAVA/gambling/src/main/java/com/risky/gambling/BaseQueries.java
+/Users/admin/JAVA/gambling/src/main/java/com/risky/gambling/utils/ViewName.java
+/Users/admin/JAVA/gambling/src/main/java/com/risky/gambling/Configurations.java
+/Users/admin/JAVA/gambling/src/main/java/com/risky/gambling/utils/ComparisonOperator.java
+/Users/admin/JAVA/gambling/src/main/java/com/risky/gambling/controllers/ProductController.java
+/Users/admin/JAVA/gambling/src/main/java/com/risky/gambling/models/Product.java
+/Users/admin/JAVA/gambling/src/main/java/com/risky/gambling/GamblingApplication.java
+/Users/admin/JAVA/gambling/src/main/java/com/risky/gambling/controllers/TodoController.java
+/Users/admin/JAVA/gambling/src/main/java/com/risky/gambling/mappers/ProductMapper.java
+/Users/admin/JAVA/gambling/src/main/java/com/risky/gambling/daos/TodoDAO.java
+/Users/admin/JAVA/gambling/src/main/java/com/risky/gambling/interfaces/IBaseQuery.java
+/Users/admin/JAVA/gambling/src/main/java/com/risky/gambling/daos/ProductDAO.java
+/Users/admin/JAVA/gambling/src/main/java/com/risky/gambling/mappers/TodoMapper.java
