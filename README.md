@@ -9,5 +9,4 @@ A simple crud application using Spring Boot, which users can create new notes, u
 3. Update
 
 4. Delete
-https://user-images.githubusercontent.com/84984352/188126742-fb7510c2-6cf5-4720-9cf5-9252586c6334.mov
-
+![delete](https://user-images.githubusercontent.com/84984352/188127402-97cd7981-b58b-4ebd-a3d2-ed97feac4316.gif)
